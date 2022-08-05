@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.Form1.resources
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.Properties.Resources.resources
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\NguyenQuangThe\bin\Debug\NguyenQuangThe.exe.config
+C:\Users\PC\Desktop\NguyenQuangThe\bin\Debug\NguyenQuangThe.exe
+C:\Users\PC\Desktop\NguyenQuangThe\bin\Debug\NguyenQuangThe.pdb
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.exe
+C:\Users\PC\Desktop\NguyenQuangThe\obj\Debug\NguyenQuangThe.pdb
